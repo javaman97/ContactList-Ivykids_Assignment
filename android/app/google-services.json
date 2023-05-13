@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "500911098861",
+    "project_id": "contactlist-414a6",
+    "storage_bucket": "contactlist-414a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:500911098861:android:ba6d17f98d179b544c75e4",
+        "android_client_info": {
+          "package_name": "com.ivykids.assignment.ivykids"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "500911098861-rl506i92s4pg0rqspdbfo5rj8ui85bjb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD50z47UrsIql_CNYqwuA9u6_oMJ8ROWfo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "500911098861-rl506i92s4pg0rqspdbfo5rj8ui85bjb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
